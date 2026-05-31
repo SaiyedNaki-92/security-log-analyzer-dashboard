@@ -43,7 +43,7 @@ python main.py
 
 ## Screenshot
 
-![Dashboard](screenshot.png)
+![Dashboard](LogAnalyzer.png)
 
 ## Author
 
